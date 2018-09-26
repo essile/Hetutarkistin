@@ -1,0 +1,17 @@
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\bin\Debug\HetutarkistinTests.dll
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\bin\Debug\HetutarkistinTests.pdb
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\bin\Debug\Hetutarkistin.exe
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\bin\Debug\Hetutarkistin.pdb
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\bin\Debug\Hetutarkistin.exe.config
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\obj\Debug\HetutarkistinTests.csprojAssemblyReference.cache
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\obj\Debug\HetutarkistinTests.csproj.CoreCompileInputs.cache
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\obj\Debug\HetutarkistinTests.csproj.CopyComplete
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\obj\Debug\HetutarkistinTests.dll
+C:\Users\essil\source\repos\omatProjektit\HetutarkistinTests\obj\Debug\HetutarkistinTests.pdb
